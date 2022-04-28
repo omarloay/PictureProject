@@ -13,7 +13,7 @@ let displayHours = 0;
 
 //Pictures Counter
 let i = 1;
-let iMax =  6; //Pictures Count + 1
+let iMax =  7; //Pictures Count + 1
 
 //Email Body
 let emailBody = "";
