@@ -92,7 +92,7 @@ function next(){
 	hours = 0;
 	status = "stopped";
 	if (i + 1 < iMax){
-		document.getElementById("img").setAttribute('src', "images/p" + (i + 1).toString() + ".png");
+		document.getElementById("img").setAttribute('src', "images/P" + (i + 1).toString() + ".png");
 		i ++;
 		startStop();
 	}
