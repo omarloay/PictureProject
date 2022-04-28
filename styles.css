@@ -1,0 +1,47 @@
+.container{
+	background-color: white;
+	height: 100%;
+	width: 100%;
+	margin: 10px auto;
+}
+
+#display{
+	width: 100%;
+	font-size: 72px;
+	text-align:center;
+	margin: 0px auto;
+}
+
+#prevDisplay{
+	width: 100%;
+	font-size: 52px;
+	text-align:center;
+	margin: 0px auto;
+}
+
+#image{
+
+	text-align:center;
+	margin: 0px auto;
+
+}
+
+.buttons{
+	  background-color: #04AA6D; /* Green */
+	  Width: 300px;
+	  border: none;
+	  color: white;
+	  padding: 20px;
+	  text-align: center;
+	  text-decoration: none;
+	  /*display: inline-block;*/
+	  font-size: 20px;
+	  margin: auto;
+	  cursor: pointer;
+	  border-radius: 12px;
+}
+
+
+#next{
+	display: none;
+}
